@@ -1,0 +1,2 @@
+# newsyntax
+yeni syntekler
